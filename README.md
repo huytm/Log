@@ -1,4 +1,4 @@
-#Một số hiểu biết cơ bản về log
+# Một số hiểu biết cơ bản về log
 <a name="ml"></a>
 [Mục lục](#ml)
 
@@ -9,7 +9,7 @@
 
 ---
 <a name="1"></a>
-####1. Khái niệm về log
+#### 1. Khái niệm về log
 *Log là gì? Log để làm gì?*
 
 Trước hết Bạn là người quản trị mạng của một doanh nghiệp, trong hệ thống mạng của bạn có một máy chủ chứa dữ liệu rất quan trọng. Một buổi tối bạn để máy chủ đó chạy suốt đêm nhưng khi về đến nhà bạn truy cập vào máy chủ thì báo lỗi từ chối dịch vụ do không thể kết nối, buổi sáng bạn vội vã đến xem xét tình hình thì thấy một số dữ liệu đã bị mất và vấn đề lúc này là xem ai đã gây ra vấn đề trên. Vậy phải làm thế nào để điều tra xử lý, hay đơn giản là tìm nguyên nhân để khắc phục hậu quả vừa xảy ra. Log sẽ giúp bạn làm việc này.
@@ -29,7 +29,7 @@ Như đã nói ở trên, tác dụng của log là vô cùng to lớn, nó có 
 
 ---
 <a name="2"></a>
-####2. Syslog và Rsyslog
+#### 2. Syslog và Rsyslog
 
 **2.1 Giới thiệu về Syslog**
 
@@ -135,7 +135,7 @@ Twitter của tác giả Rsyslog [Twitter](https://twitter.com/rgerhards/)
 
 ---
 <a name="3"></a>
-####3. Log tập trung
+#### 3. Log tập trung
 
 **Tác dụng của log là vô cùng to lớn vậy làm thế nào để quản lý log tốt hơn?**
 
